@@ -1,2 +1,2 @@
 # C-Sharp-and-its-Applications
-Building Web Applications using C-Sharp
+C-Sharp Basic Programming Codes to start learning C#.
